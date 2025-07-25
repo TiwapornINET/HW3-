@@ -1,0 +1,70 @@
+body{
+    font-family: "IBM Plex Sans Thai", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+h1{
+    color: maroon;
+    text-align: center;
+    font-family: "IBM Plex Sans Thai", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+p{
+    font-size: 18px;
+    line-height: 20px;
+}
+#p_profile{
+    text-align: center;
+    font-size: 18px;
+    line-height: 10px;
+}
+#sub{
+    font-weight: bold;
+}
+
+div.p_index{
+    width: 50%;
+    margin: 3% auto;
+}
+div.picture{
+    margin-top: 3%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px; 
+}
+div.gallery{
+    width: 180px;
+}
+div.gallery img{
+    width: 100%;
+    border-radius: 8px;
+    box-shadow: 10px 10px 5px rgb(217, 217, 217);
+}
+
+
+#HeadTable{
+    background-color: crimson;
+    font-weight: bold;
+}
+#foottable{
+    font-weight: bold;
+}
+#SubjectName{
+    text-align: left;
+}
+table{
+    border: 1px solid gold;
+    border-spacing: 10px; 
+    border-collapse: separate; 
+    text-align: center;
+    width: 100%;
+}
+td{
+    border: 1px solid gold;
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+
